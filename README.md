@@ -1,19 +1,19 @@
 # Grok：马斯克 Grok3 国内使用指南~ 【5月更新】
 
-> 更新时间：**2025/05/09**        
+> 更新时间：**2025/05/10**        
 
-国内能轻松使用的 [**Grok3 中文版**](https://chat.yixiaai.com) 教程，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
+国内能轻松使用的 [**Grok3 中文版**](https://chat.lanjing.pro) 教程，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
 
-本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.pro)、[**Grok3 国内入口**](https://chat.yixiaai.com)、[**Grok 官网平替**](https://chat.lanjing.pro)和详细使用教程，帮助您快速使用上 grok~
+本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.pro)、[**Grok3 国内入口**](https://chat.xsimple.top)、[**Grok 官网平替**](https://chat.lanjing.pro)和详细使用教程，帮助您快速使用上 grok~
 
-**Grok 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
+**Grok 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**   
 **Grok 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
 ## 什么是 Grok3 中文版？
 
-[**Grok 中文版**](https://chat.yixiaai.com) 是 马斯克 xAI 的 grok3 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
+[**Grok 中文版**](https://chat.xsimple.top) 是 马斯克 xAI 的 grok3 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
 
 相较于官网，**Grok3 中文版**在以下方面更适合国内用户：
 
@@ -29,9 +29,9 @@
 
 | 网站链接                                                       | 网站名称          | 支持功能                                                                                      |
 |---------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com/)                 | **Grok 中文版**       | 支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，支持 AI绘画，扫码就能用~                       |
+| [chat.yixiaai.com](https://chat.xsimple.top/)                 | **Grok 中文版**       | 支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，支持 AI绘画，扫码就能用~                       |
 | [chat.lanjing.pro](https://chat.lanjing.pro/)                 | **Grok3 中文站**      | 支持 Grok 3、GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet 最先进的模型，无限使用~           |
-| [chat.lify.vip](https://www.yixiaai.com/)                     | **Grok 镜像网站**     | 支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~   |
+| [chat.lify.vip](https://chat.yixiaai.com/)                     | **Grok 镜像网站**     | 支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~   |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) | **ChatGPT 镜像网站**  | 支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）                                               |
 | [ai.lansejingyu.com](https://ai.lansejingyu.com/)             | ChatGPT-4 镜像   | 支持 GPT4、4o，简单便捷~                                                                      |
 
@@ -62,7 +62,7 @@
 
 ## 如何使用 Grok3 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.yixiaai.com](https://chat.xsimple.top))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 grok3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
