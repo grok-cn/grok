@@ -1,19 +1,19 @@
 # Grok：马斯克 Grok3 国内使用指南~ 【5月更新】
 
-> 更新时间：**2025/05/27**         
+> 更新时间：**2025/05/28**         
 
 国内能轻松使用的 [**Grok3 中文版**](https://chat.lanjing.pro) 教程，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
 
 本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.pro)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 官网平替**](https://chat.lanjing.pro)和详细使用教程，帮助您快速使用上 grok~
 
-**Grok 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
-**Grok 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
+**Grok 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**Grok 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 Grok3 中文版？
 
-[**Grok 中文版**](https://xsimplechat.com) 是 马斯克 xAI 的 grok3 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
+[**Grok 中文版**](https://chat.lanjing.pro) 是 马斯克 xAI 的 grok3 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
 
 相较于官网，**Grok3 中文版**在以下方面更适合国内用户：
 
@@ -62,7 +62,7 @@
 
 ## 如何使用 Grok3 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.yixiaai.com](https://xsimplechat.com))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 grok3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
