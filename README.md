@@ -1,6 +1,6 @@
 # Grok：马斯克 Grok4 国内使用指南~ 【8月更新】
 
-> 更新时间：**2025/08/19**       
+> 更新时间：**2025/08/20**       
 
 国内能轻松使用的 [**Grok4 中文版**](https://chat.lanjingai.org) 教程，**无需翻墙**，**支持 Grok-4 及中文版功能**   
 
@@ -29,9 +29,9 @@
 
 | 网站链接                                                       | 网站名称          | 支持功能                                                                                      |
 |---------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------|
-| [chat.yixiaai.com](https://xsimplechat.com/)                 | **Grok 中文版**       | 支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，支持 AI绘画，扫码就能用~                       |
-| [chat.lanjingai.org](https://chat.lanjingai.org/)                 | **Grok4 中文站**      | 支持 Grok 3、GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet 最先进的模型，无限使用~           |
-| [chat.lify.vip](https://chat.yixiaai.com/)                     | **Grok 镜像网站**     | 支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~   |
+| [chat.yixiaai.com](https://xsimplechat.com/)                 | **Grok 中文版**       | 支持 Grok-4 Reasoning、GPT-5、o1、o3及DeepSeek R1，支持 AI绘画，扫码就能用~                       |
+| [chat.lanjingai.org](https://chat.lanjingai.org/)                 | **Grok4 中文站**      | 支持 Grok 4、GPT-5、4o、o1、o3 及 DeepSeek R1、Claude 4 sonnet 最先进的模型，无限使用~           |
+| [chat.lify.vip](https://chat.yixiaai.com/)                     | **Grok 镜像网站**     | 支持 Grok-4 Reasoning、GPT-o1、o3及DeepSeek R1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~   |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) | **ChatGPT 镜像网站**  | 支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）                                               |
 | [ai.lansejingyu.com](https://ai.lansejingyu.com/)             | ChatGPT-4 镜像   | 支持 GPT4、4o，简单便捷~                                                                      |
 
